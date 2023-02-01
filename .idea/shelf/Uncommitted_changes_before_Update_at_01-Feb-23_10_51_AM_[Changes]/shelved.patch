@@ -1,0 +1,151 @@
+Index: .idea/misc.xml
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+deleted file mode 100644
+--- a/.idea/misc.xml	(revision 3d1d3f4b2486a2fac6d4c4aa3738ef0b28dd642d)
++++ /dev/null	(revision 3d1d3f4b2486a2fac6d4c4aa3738ef0b28dd642d)
+@@ -1,7 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9" project-jdk-type="Python SDK" />
+-  <component name="PyCharmProfessionalAdvertiser">
+-    <option name="shown" value="true" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/modules.xml
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+deleted file mode 100644
+--- a/.idea/modules.xml	(revision 3d1d3f4b2486a2fac6d4c4aa3738ef0b28dd642d)
++++ /dev/null	(revision 3d1d3f4b2486a2fac6d4c4aa3738ef0b28dd642d)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/.idea/firstproject.iml" filepath="$PROJECT_DIR$/.idea/firstproject.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/inspectionProfiles/profiles_settings.xml
+===================================================================
+diff --git a/.idea/inspectionProfiles/profiles_settings.xml b/.idea/inspectionProfiles/profiles_settings.xml
+deleted file mode 100644
+--- a/.idea/inspectionProfiles/profiles_settings.xml	(revision 3d1d3f4b2486a2fac6d4c4aa3738ef0b28dd642d)
++++ /dev/null	(revision 3d1d3f4b2486a2fac6d4c4aa3738ef0b28dd642d)
+@@ -1,6 +0,0 @@
+-<component name="InspectionProjectProfileManager">
+-  <settings>
+-    <option name="USE_PROJECT_PROFILE" value="false" />
+-    <version value="1.0" />
+-  </settings>
+-</component>
+\ No newline at end of file
+Index: .idea/firstproject.iml
+===================================================================
+diff --git a/.idea/firstproject.iml b/.idea/firstproject.iml
+deleted file mode 100644
+--- a/.idea/firstproject.iml	(revision 3d1d3f4b2486a2fac6d4c4aa3738ef0b28dd642d)
++++ /dev/null	(revision 3d1d3f4b2486a2fac6d4c4aa3738ef0b28dd642d)
+@@ -1,12 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module type="PYTHON_MODULE" version="4">
+-  <component name="NewModuleRootManager">
+-    <content url="file://$MODULE_DIR$" />
+-    <orderEntry type="inheritedJdk" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-  <component name="PyDocumentationSettings">
+-    <option name="format" value="PLAIN" />
+-    <option name="myDocStringFormat" value="Plain" />
+-  </component>
+-</module>
+\ No newline at end of file
+Index: .idea/vcs.xml
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+deleted file mode 100644
+--- a/.idea/vcs.xml	(revision 3d1d3f4b2486a2fac6d4c4aa3738ef0b28dd642d)
++++ /dev/null	(revision 3d1d3f4b2486a2fac6d4c4aa3738ef0b28dd642d)
+@@ -1,7 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+-    <mapping directory="$PROJECT_DIR$/firstproject" vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"25fa303b-63ae-4c82-8572-31be1b6e9160\" name=\"Changes\" comment=\"variations\">\r\n      <change afterPath=\"$PROJECT_DIR$/media/photos/categories/iphone-14-storage-select-202209-6-1inch-blue.jpeg\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/media/photos/products/iphone-14-storage-select-202209-6-1inch-blue.jpeg\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/templates/accounts/account_verification_email.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/templates/accounts/dashboard.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/templates/accounts/forgotPassword.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/templates/accounts/resetPassword.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/templates/accounts/reset_password_email.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/templates/include/alerts.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/templates/include/dashboard_sidebar.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/accounts/forms.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/accounts/forms.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/accounts/models.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/accounts/models.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/accounts/urls.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/accounts/urls.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/accounts/views.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/accounts/views.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/carts/context_processors.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/carts/context_processors.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/db.sqlite3\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/db.sqlite3\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/firstproject/README.md\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/firstproject/settings.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/firstproject/settings.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/static/js/script.js\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/static/js/scripts.js\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/store/urls.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/store/urls.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/templates/accounts/login.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/templates/accounts/login.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/templates/accounts/register.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/templates/accounts/register.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/templates/base.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/templates/base.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/templates/include/navbar.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/templates/include/navbar.html\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n    <option name=\"ROOT_SYNC\" value=\"SYNC\" />\r\n  </component>\r\n  <component name=\"GitSEFilterConfiguration\">\r\n    <file-type-list>\r\n      <filtered-out-file-type name=\"LOCAL_BRANCH\" />\r\n      <filtered-out-file-type name=\"REMOTE_BRANCH\" />\r\n      <filtered-out-file-type name=\"TAG\" />\r\n      <filtered-out-file-type name=\"COMMIT_BY_MESSAGE\" />\r\n    </file-type-list>\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2KXE1xv2xcZtu5I5akJnjI1CeGy\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n    <option name=\"sortByType\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"ASKED_ADD_EXTERNAL_FILES\" value=\"true\" />\r\n    <property name=\"DefaultHtmlFileTemplate\" value=\"HTML File\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/templates/accounts\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"F:\\projects\\django_project\\firstproject\\templates\\accounts\" />\r\n      <recent name=\"F:\\projects\\django_project\\firstproject\\templates\\include\" />\r\n      <recent name=\"F:\\projects\\django_project\\firstproject\\accounts\" />\r\n      <recent name=\"F:\\projects\\django_project\\firstproject\\templates\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"25fa303b-63ae-4c82-8572-31be1b6e9160\" name=\"Changes\" comment=\"\" />\r\n      <created>1674112316259</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1674112316259</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"variations\">\r\n      <created>1674192925247</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1674192925247</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\r\n    <MESSAGE value=\"variations\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"variations\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 3d1d3f4b2486a2fac6d4c4aa3738ef0b28dd642d)
++++ b/.idea/workspace.xml	(date 1675226962612)
+@@ -1,31 +1,13 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="25fa303b-63ae-4c82-8572-31be1b6e9160" name="Changes" comment="variations">
+-      <change afterPath="$PROJECT_DIR$/media/photos/categories/iphone-14-storage-select-202209-6-1inch-blue.jpeg" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/media/photos/products/iphone-14-storage-select-202209-6-1inch-blue.jpeg" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/templates/accounts/account_verification_email.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/templates/accounts/dashboard.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/templates/accounts/forgotPassword.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/templates/accounts/resetPassword.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/templates/accounts/reset_password_email.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/templates/include/alerts.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/templates/include/dashboard_sidebar.html" afterDir="false" />
++    <list default="true" id="25fa303b-63ae-4c82-8572-31be1b6e9160" name="Changes" comment="mail verification &amp;reset password">
++      <change beforePath="$PROJECT_DIR$/.idea/firstproject.iml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/accounts/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/forms.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/accounts/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/models.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/accounts/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/urls.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/accounts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/views.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/carts/context_processors.py" beforeDir="false" afterPath="$PROJECT_DIR$/carts/context_processors.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/firstproject/README.md" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/firstproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstproject/settings.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/static/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/scripts.js" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/store/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/urls.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/templates/accounts/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/accounts/login.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/templates/accounts/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/accounts/register.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/templates/include/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/include/navbar.html" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -50,6 +32,14 @@
+       <filtered-out-file-type name="TAG" />
+       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+     </file-type-list>
++  </component>
++  <component name="GithubPullRequestsUISettings">
++    <option name="selectedUrlAndAccountId">
++      <UrlAndAccount>
++        <option name="accountId" value="85f4310c-8d98-4b4f-8387-8e3f05130bef" />
++        <option name="url" value="https://github.com/prashanthcheemala/ekart.git" />
++      </UrlAndAccount>
++    </option>
+   </component>
+   <component name="ProjectId" id="2KXE1xv2xcZtu5I5akJnjI1CeGy" />
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+@@ -66,6 +56,7 @@
+     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+     <property name="last_opened_file_path" value="$PROJECT_DIR$/templates/accounts" />
++    <property name="settings.editor.selected.configurable" value="advanced.settings" />
+   </component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
