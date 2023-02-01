@@ -161,6 +161,10 @@ def resetPassword(request):
     else:
         return render(request, 'accounts/resetPassword.html')
 
+def home(request):
+    pass
+
+
 
 
 
