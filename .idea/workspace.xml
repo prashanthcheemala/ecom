@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25fa303b-63ae-4c82-8572-31be1b6e9160" name="Changes" comment="mail verification &amp;reset password">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="25fa303b-63ae-4c82-8572-31be1b6e9160" name="Changes" comment="function added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +74,28 @@
       <option name="project" value="LOCAL" />
       <updated>1675228978779</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="mail verification &amp;reset password">
+      <created>1675230475971</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675230475971</updated>
+    </task>
+    <task id="LOCAL-00004" summary="removed function">
+      <created>1675230519025</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675230519025</updated>
+    </task>
+    <task id="LOCAL-00005" summary="function added">
+      <created>1675230624045</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675230624045</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,6 +114,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="variations" />
     <MESSAGE value="mail verification &amp;reset password" />
-    <option name="LAST_COMMIT_MESSAGE" value="mail verification &amp;reset password" />
+    <MESSAGE value="removed function" />
+    <MESSAGE value="function added" />
+    <option name="LAST_COMMIT_MESSAGE" value="function added" />
   </component>
 </project>

@@ -162,10 +162,6 @@ def resetPassword(request):
         return render(request, 'accounts/resetPassword.html')
 
 
-def hom(request):
-    pass
-
-
 
 
 
