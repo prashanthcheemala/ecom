@@ -1,30 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25fa303b-63ae-4c82-8572-31be1b6e9160" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/accounts/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accounts/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carts/migrations/0002_cartitem_variations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/accounts/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/accounts/register.html" afterDir="false" />
+    <list default="true" id="25fa303b-63ae-4c82-8572-31be1b6e9160" name="Changes" comment="variations">
+      <change afterPath="$PROJECT_DIR$/media/photos/categories/iphone-14-storage-select-202209-6-1inch-blue.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/photos/products/iphone-14-storage-select-202209-6-1inch-blue.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/accounts/account_verification_email.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/accounts/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/accounts/forgotPassword.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/accounts/resetPassword.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/accounts/reset_password_email.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/include/alerts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/include/dashboard_sidebar.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/accounts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carts/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/carts/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carts/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/carts/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/carts/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carts/context_processors.py" beforeDir="false" afterPath="$PROJECT_DIR$/carts/context_processors.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstproject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstproject/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstproject/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstproject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/accounts/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/accounts/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/accounts/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/accounts/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/include/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/include/navbar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/store/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/store/cart.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/store/product_details.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/store/product_details.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="2KXE1xv2xcZtu5I5akJnjI1CeGy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -37,6 +62,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/templates/accounts" />
@@ -44,6 +70,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\projects\django_project\firstproject\templates\accounts" />
+      <recent name="F:\projects\django_project\firstproject\templates\include" />
       <recent name="F:\projects\django_project\firstproject\accounts" />
       <recent name="F:\projects\django_project\firstproject\templates" />
     </key>
@@ -57,6 +84,14 @@
       <option name="presentableId" value="Default" />
       <updated>1674112316259</updated>
     </task>
+    <task id="LOCAL-00001" summary="variations">
+      <created>1674192925247</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674192925247</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -69,8 +104,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="variations" />
+    <option name="LAST_COMMIT_MESSAGE" value="variations" />
   </component>
 </project>
